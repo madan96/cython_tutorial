@@ -11,3 +11,5 @@ Tutorial codes for Cython
 | cdef list names           	| statically typed Python list   	|
 | cdef dict name_to_id = {} 	| declare and init a Python dict 	|
 | cdef object a             	| a reference counted object     	|
+| ctypedef long time_t        | typdef long as time_t         	|
+
